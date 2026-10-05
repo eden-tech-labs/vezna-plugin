@@ -1,0 +1,15 @@
+{
+  "name": "vezna",
+  "displayName": "Vezna",
+  "version": "1.0.0",
+  "description": "Work with your company's books in Vezna: cash, P&L, spending, the VAT estimate and the general ledger, plus closing the month by finding the invoices Vezna is still waiting for.",
+  "author": {
+    "name": "Ninefold Ltd",
+    "email": "support@vezna.ai",
+    "url": "https://vezna.ai"
+  },
+  "homepage": "https://vezna.ai/docs/connect/",
+  "repository": "https://github.com/eden-tech-labs/vezna-plugin",
+  "license": "MIT",
+  "keywords": ["accounting", "bookkeeping", "finance", "vat", "general-ledger", "invoices", "bulgaria"]
+}

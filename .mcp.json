@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vezna": {
+      "type": "http",
+      "url": "https://app.vezna.ai/mcp"
+    }
+  }
+}
